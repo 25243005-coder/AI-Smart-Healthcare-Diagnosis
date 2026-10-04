@@ -1,0 +1,104 @@
+disease,symptom,rule
+Allergy,sneezing,IF sneezing THEN possible Allergy
+Allergy,runny_nose,IF runny_nose THEN possible Allergy
+Allergy,itchy_eyes,IF itchy_eyes THEN possible Allergy
+Allergy,watery_eyes,IF watery_eyes THEN possible Allergy
+Allergy,nasal_congestion,IF nasal_congestion THEN possible Allergy
+Allergy,sneezing,IF sneezing THEN possible Allergy
+Allergy,itchy_eyes,IF itchy_eyes THEN possible Allergy
+Allergy,skin_rash,IF skin_rash THEN possible Allergy
+Allergy,itching,IF itching THEN possible Allergy
+Allergy,runny_nose,IF runny_nose THEN possible Allergy
+Common Cold,cough,IF cough THEN possible Common Cold
+Common Cold,runny_nose,IF runny_nose THEN possible Common Cold
+Common Cold,sneezing,IF sneezing THEN possible Common Cold
+Common Cold,sore_throat,IF sore_throat THEN possible Common Cold
+Common Cold,headache,IF headache THEN possible Common Cold
+Common Cold,fatigue,IF fatigue THEN possible Common Cold
+Common Cold,runny_nose,IF runny_nose THEN possible Common Cold
+Common Cold,sneezing,IF sneezing THEN possible Common Cold
+Common Cold,nasal_congestion,IF nasal_congestion THEN possible Common Cold
+Common Cold,sore_throat,IF sore_throat THEN possible Common Cold
+Common Cold,cough,IF cough THEN possible Common Cold
+Dengue,high_fever,IF high_fever THEN possible Dengue
+Dengue,severe_headache,IF severe_headache THEN possible Dengue
+Dengue,body_pain,IF body_pain THEN possible Dengue
+Dengue,rash,IF rash THEN possible Dengue
+Dengue,nausea,IF nausea THEN possible Dengue
+Dengue,high_fever,IF high_fever THEN possible Dengue
+Dengue,joint_pain,IF joint_pain THEN possible Dengue
+Dengue,muscle_pain,IF muscle_pain THEN possible Dengue
+Dengue,rash,IF rash THEN possible Dengue
+Dengue,headache,IF headache THEN possible Dengue
+Flu,fever,IF fever THEN possible Flu
+Flu,cough,IF cough THEN possible Flu
+Flu,body_pain,IF body_pain THEN possible Flu
+Flu,fatigue,IF fatigue THEN possible Flu
+Flu,headache,IF headache THEN possible Flu
+Flu,sore_throat,IF sore_throat THEN possible Flu
+Flu,fever,IF fever THEN possible Flu
+Flu,cough,IF cough THEN possible Flu
+Flu,body_pain,IF body_pain THEN possible Flu
+Flu,fatigue,IF fatigue THEN possible Flu
+Flu,headache,IF headache THEN possible Flu
+Flu,chills,IF chills THEN possible Flu
+Gastritis,abdominal_pain,IF abdominal_pain THEN possible Gastritis
+Gastritis,nausea,IF nausea THEN possible Gastritis
+Gastritis,vomiting,IF vomiting THEN possible Gastritis
+Gastritis,bloating,IF bloating THEN possible Gastritis
+Gastritis,heartburn,IF heartburn THEN possible Gastritis
+Gastritis,abdominal_pain,IF abdominal_pain THEN possible Gastritis
+Gastritis,heartburn,IF heartburn THEN possible Gastritis
+Gastritis,loss_of_appetite,IF loss_of_appetite THEN possible Gastritis
+Gastritis,nausea,IF nausea THEN possible Gastritis
+Gastritis,bloating,IF bloating THEN possible Gastritis
+Malaria,fever,IF fever THEN possible Malaria
+Malaria,chills,IF chills THEN possible Malaria
+Malaria,sweating,IF sweating THEN possible Malaria
+Malaria,headache,IF headache THEN possible Malaria
+Malaria,nausea,IF nausea THEN possible Malaria
+Malaria,fever,IF fever THEN possible Malaria
+Malaria,chills,IF chills THEN possible Malaria
+Malaria,fatigue,IF fatigue THEN possible Malaria
+Malaria,body_pain,IF body_pain THEN possible Malaria
+Malaria,vomiting,IF vomiting THEN possible Malaria
+Migraine,severe_headache,IF severe_headache THEN possible Migraine
+Migraine,nausea,IF nausea THEN possible Migraine
+Migraine,vomiting,IF vomiting THEN possible Migraine
+Migraine,light_sensitivity,IF light_sensitivity THEN possible Migraine
+Migraine,sound_sensitivity,IF sound_sensitivity THEN possible Migraine
+Migraine,severe_headache,IF severe_headache THEN possible Migraine
+Migraine,visual_disturbance,IF visual_disturbance THEN possible Migraine
+Migraine,nausea,IF nausea THEN possible Migraine
+Migraine,light_sensitivity,IF light_sensitivity THEN possible Migraine
+Migraine,fatigue,IF fatigue THEN possible Migraine
+Pneumonia,fever,IF fever THEN possible Pneumonia
+Pneumonia,cough,IF cough THEN possible Pneumonia
+Pneumonia,chest_pain,IF chest_pain THEN possible Pneumonia
+Pneumonia,difficulty_breathing,IF difficulty_breathing THEN possible Pneumonia
+Pneumonia,fatigue,IF fatigue THEN possible Pneumonia
+Pneumonia,fever,IF fever THEN possible Pneumonia
+Pneumonia,productive_cough,IF productive_cough THEN possible Pneumonia
+Pneumonia,chest_pain,IF chest_pain THEN possible Pneumonia
+Pneumonia,difficulty_breathing,IF difficulty_breathing THEN possible Pneumonia
+Pneumonia,chills,IF chills THEN possible Pneumonia
+Typhoid,fever,IF fever THEN possible Typhoid
+Typhoid,abdominal_pain,IF abdominal_pain THEN possible Typhoid
+Typhoid,headache,IF headache THEN possible Typhoid
+Typhoid,weakness,IF weakness THEN possible Typhoid
+Typhoid,diarrhea,IF diarrhea THEN possible Typhoid
+Typhoid,fever,IF fever THEN possible Typhoid
+Typhoid,abdominal_pain,IF abdominal_pain THEN possible Typhoid
+Typhoid,constipation,IF constipation THEN possible Typhoid
+Typhoid,fatigue,IF fatigue THEN possible Typhoid
+Typhoid,loss_of_appetite,IF loss_of_appetite THEN possible Typhoid
+Urinary Tract Infection,frequent_urination,IF frequent_urination THEN possible Urinary Tract Infection
+Urinary Tract Infection,painful_urination,IF painful_urination THEN possible Urinary Tract Infection
+Urinary Tract Infection,lower_abdominal_pain,IF lower_abdominal_pain THEN possible Urinary Tract Infection
+Urinary Tract Infection,fever,IF fever THEN possible Urinary Tract Infection
+Urinary Tract Infection,fatigue,IF fatigue THEN possible Urinary Tract Infection
+Urinary Tract Infection,painful_urination,IF painful_urination THEN possible Urinary Tract Infection
+Urinary Tract Infection,frequent_urination,IF frequent_urination THEN possible Urinary Tract Infection
+Urinary Tract Infection,cloudy_urine,IF cloudy_urine THEN possible Urinary Tract Infection
+Urinary Tract Infection,fever,IF fever THEN possible Urinary Tract Infection
+Urinary Tract Infection,pelvic_pain,IF pelvic_pain THEN possible Urinary Tract Infection

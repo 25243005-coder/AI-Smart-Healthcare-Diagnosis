@@ -1,0 +1,104 @@
+disease,symptom,present
+Flu,fever,1
+Flu,cough,1
+Flu,body_pain,1
+Flu,fatigue,1
+Flu,headache,1
+Flu,sore_throat,1
+Flu,fever,1
+Flu,cough,1
+Flu,body_pain,1
+Flu,fatigue,1
+Flu,headache,1
+Flu,chills,1
+Common Cold,cough,1
+Common Cold,runny_nose,1
+Common Cold,sneezing,1
+Common Cold,sore_throat,1
+Common Cold,headache,1
+Common Cold,fatigue,1
+Common Cold,runny_nose,1
+Common Cold,sneezing,1
+Common Cold,nasal_congestion,1
+Common Cold,sore_throat,1
+Common Cold,cough,1
+Dengue,high_fever,1
+Dengue,severe_headache,1
+Dengue,body_pain,1
+Dengue,rash,1
+Dengue,nausea,1
+Dengue,high_fever,1
+Dengue,joint_pain,1
+Dengue,muscle_pain,1
+Dengue,rash,1
+Dengue,headache,1
+Malaria,fever,1
+Malaria,chills,1
+Malaria,sweating,1
+Malaria,headache,1
+Malaria,nausea,1
+Malaria,fever,1
+Malaria,chills,1
+Malaria,fatigue,1
+Malaria,body_pain,1
+Malaria,vomiting,1
+Typhoid,fever,1
+Typhoid,abdominal_pain,1
+Typhoid,headache,1
+Typhoid,weakness,1
+Typhoid,diarrhea,1
+Typhoid,fever,1
+Typhoid,abdominal_pain,1
+Typhoid,constipation,1
+Typhoid,fatigue,1
+Typhoid,loss_of_appetite,1
+Pneumonia,fever,1
+Pneumonia,cough,1
+Pneumonia,chest_pain,1
+Pneumonia,difficulty_breathing,1
+Pneumonia,fatigue,1
+Pneumonia,fever,1
+Pneumonia,productive_cough,1
+Pneumonia,chest_pain,1
+Pneumonia,difficulty_breathing,1
+Pneumonia,chills,1
+Migraine,severe_headache,1
+Migraine,nausea,1
+Migraine,vomiting,1
+Migraine,light_sensitivity,1
+Migraine,sound_sensitivity,1
+Migraine,severe_headache,1
+Migraine,visual_disturbance,1
+Migraine,nausea,1
+Migraine,light_sensitivity,1
+Migraine,fatigue,1
+Allergy,sneezing,1
+Allergy,runny_nose,1
+Allergy,itchy_eyes,1
+Allergy,watery_eyes,1
+Allergy,nasal_congestion,1
+Allergy,sneezing,1
+Allergy,itchy_eyes,1
+Allergy,skin_rash,1
+Allergy,itching,1
+Allergy,runny_nose,1
+Gastritis,abdominal_pain,1
+Gastritis,nausea,1
+Gastritis,vomiting,1
+Gastritis,bloating,1
+Gastritis,heartburn,1
+Gastritis,abdominal_pain,1
+Gastritis,heartburn,1
+Gastritis,loss_of_appetite,1
+Gastritis,nausea,1
+Gastritis,bloating,1
+Urinary Tract Infection,frequent_urination,1
+Urinary Tract Infection,painful_urination,1
+Urinary Tract Infection,lower_abdominal_pain,1
+Urinary Tract Infection,fever,1
+Urinary Tract Infection,fatigue,1
+Urinary Tract Infection,painful_urination,1
+Urinary Tract Infection,frequent_urination,1
+Urinary Tract Infection,cloudy_urine,1
+Urinary Tract Infection,fever,1
+Urinary Tract Infection,pelvic_pain,1

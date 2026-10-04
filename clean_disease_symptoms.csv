@@ -1,0 +1,21 @@
+disease,symptom_1,symptom_2,symptom_3,symptom_4,symptom_5,symptom_6
+Flu,fever,cough,body_pain,fatigue,headache,sore_throat
+Flu,fever,cough,body_pain,fatigue,headache,chills
+Common Cold,cough,runny_nose,sneezing,sore_throat,headache,fatigue
+Common Cold,runny_nose,sneezing,nasal_congestion,sore_throat,cough,
+Dengue,high_fever,severe_headache,body_pain,rash,nausea,
+Dengue,high_fever,joint_pain,muscle_pain,rash,headache,
+Malaria,fever,chills,sweating,headache,nausea,
+Malaria,fever,chills,fatigue,body_pain,vomiting,
+Typhoid,fever,abdominal_pain,headache,weakness,diarrhea,
+Typhoid,fever,abdominal_pain,constipation,fatigue,loss_of_appetite,
+Pneumonia,fever,cough,chest_pain,difficulty_breathing,fatigue,
+Pneumonia,fever,productive_cough,chest_pain,difficulty_breathing,chills,
+Migraine,severe_headache,nausea,vomiting,light_sensitivity,sound_sensitivity,
+Migraine,severe_headache,visual_disturbance,nausea,light_sensitivity,fatigue,
+Allergy,sneezing,runny_nose,itchy_eyes,watery_eyes,nasal_congestion,
+Allergy,sneezing,itchy_eyes,skin_rash,itching,runny_nose,
+Gastritis,abdominal_pain,nausea,vomiting,bloating,heartburn,
+Gastritis,abdominal_pain,heartburn,loss_of_appetite,nausea,bloating,
+Urinary Tract Infection,frequent_urination,painful_urination,lower_abdominal_pain,fever,fatigue,
+Urinary Tract Infection,painful_urination,frequent_urination,cloudy_urine,fever,pelvic_pain,
